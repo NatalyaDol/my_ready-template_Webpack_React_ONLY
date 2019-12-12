@@ -22,20 +22,3 @@ import './css/main.css'
 // import Bootstrap from 'bootstrap/dist/css/bootstrap.min.css'
 // import 'bootstrap/dist/css/bootstrap.min.css'
 
-// Vue.js
-window.Vue = require('vue')
-import store from './store'
-
-// Vue components (for use in html)
-Vue.component('example-component', require('./components/Example.vue').default)
-
-// Vue init
-const app = new Vue({
-  data () {
-    return {
-      showExampleComponent: false,
-    }
-  },
-  store,
-  el: '#app'
-})

@@ -1,5 +1,6 @@
 I took a webpack-template by (https://github.com/vedees) release 1.3 
-and deleted the vue library
+and deleted the vue library 
+and installed the React library
 ******************
 
 <div align="center">
