@@ -6,7 +6,7 @@ class App extends React.Component {
       <div>
         <h2>There is a headline at the  app.js file - !!!REACT JS is working</h2>
         <p>The image #1 from App React component in the below</p>
-        <img src="/assets/img/dogsad.jpg" alt="happy dog"/>
+        <img src="/assets/img/dogsad.jpg" alt="dog sad"/>
         
       </div>
     );
